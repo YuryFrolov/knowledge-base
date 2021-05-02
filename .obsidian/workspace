@@ -10,7 +10,7 @@
           "type": "markdown",
           "state": {
             "file": "README.md",
-            "mode": "source"
+            "mode": "preview"
           }
         }
       }
@@ -89,14 +89,14 @@
   "active": "9ac31dd2ea08e7f1",
   "lastOpenFiles": [
     "README.md",
+    "Front-End/Flexbox.md",
+    "Untitled.md",
+    "Front-End/Grid.md",
+    "Front-End/Flexbox/Построение сеток на флексах по макету.md",
+    "Front-End/Flexbox/Flexbox.md",
+    "Front-End/Gulp.md",
     "Computer Science/Javascript.md",
     "Система аутентификации на PHP.md",
-    "Computer Science/Языки программирования.md",
-    "Языки_программирования.md",
-    "Базисные типы JS.md",
-    "Javascript.md",
-    "Computer Science/Типизация языков программирования.md",
-    "Типизация языков программирования.md",
-    "Untitled.md"
+    "Computer Science/Языки программирования.md"
   ]
 }
