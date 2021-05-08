@@ -18,6 +18,8 @@
 ## [[Языки программирования]]
 ### Javascript
 - [[Javascript]] - knowledge base
+- [Intersecrion observer](https://intersectionobserver.io/)
+- 💥 https://1loc.dev/ 274 Лучшие утилиты Javascript
 - 💥 [Javascript visualizer](https://jsv9000.app)
 - [Metanit JS](https://metanit.com/web/javascript/2.2.php)
 - [Apache Cordova](https://cordova.apache.org/)
@@ -114,11 +116,13 @@
 
 ## Graphics
 - [Loon](https://loon.site) - поиск по бесплатным фотостокам картинок и фотографий в высоком качестве (Pexels, Unsplash, Pixabay, Flickr)
+- [Patternpad](https://patternpad.com/) - Бэкграунд паттерны
 
 ---
 
 # Templates
 https://www.uistore.design/
+https://codyhouse.co/ - готовые компоненты
 
 ---
 
